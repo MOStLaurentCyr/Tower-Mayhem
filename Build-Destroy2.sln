@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build-Destroy2", "Build-Destroy2.csproj", "{24AD8CAD-25E0-E74A-0230-EB653BF6B756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build-Destroy2.Editor", "Build-Destroy2.Editor.csproj", "{56AF86FF-E69C-DD27-DA74-BA392E0401BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24AD8CAD-25E0-E74A-0230-EB653BF6B756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AD8CAD-25E0-E74A-0230-EB653BF6B756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AD8CAD-25E0-E74A-0230-EB653BF6B756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AD8CAD-25E0-E74A-0230-EB653BF6B756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AF86FF-E69C-DD27-DA74-BA392E0401BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AF86FF-E69C-DD27-DA74-BA392E0401BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AF86FF-E69C-DD27-DA74-BA392E0401BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AF86FF-E69C-DD27-DA74-BA392E0401BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
